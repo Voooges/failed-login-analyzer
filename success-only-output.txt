@@ -1,0 +1,5 @@
+Analyzing: tests/success-only/sample-auth.log
+Total failed logins: 0
+Review threshold: 5 failures
+
+No matching failed login events found.

@@ -1,0 +1,2 @@
+usage: analyzer.py [-h] --log LOG [--threshold THRESHOLD]
+analyzer.py: error: Threshold must be at least 1.
